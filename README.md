@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Sepulveda</h1>
 <h3 align="center">A Developer - Programmer passionate about Technology</h3>
 
-<h4>👨‍💻 About Me </h4>
+<h3>👨‍💻 About Me </h3>
 
 <p>Multidisciplinary, Systems Engineering Student, FreeLancer, with experience in corporate work as freelancers in the Web Design and Development ecosystem with WordPress, HTML, CSS and JavaScript; carry out multiple projects using technologies based on that area and also create visually stunning and intuitive user interfaces.</p>
 
