@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduard Sepulveda</h1>
 <h3 align="center">A Developer - Programmer passionate about Technology</h3>
 
-<h4>Multidisciplinary, Systems Engineering Student, FreeLancer, with experience in the Web Design and Development ecosystem with WordPress, HTML, CSS and JavaScript; carry out multiple projects using technologies based on that area and also create visually stunning and intuitive user interfaces.<br>
+<p>Multidisciplinary, Systems Engineering Student, FreeLancer, with experience in corporate work as freelancers in the Web Design and Development ecosystem with WordPress, HTML, CSS and JavaScript; carry out multiple projects using technologies based on that area and also create visually stunning and intuitive user interfaces.</p>
 
-I would love to face new challenges, something I have done since the beginning of my career, which have been very important for the company and which, without a doubt, have led me to get the best out of myself.<br>
+<p>I would love to face new challenges, something I have done since the beginning of my career, which have been very important for the company and which, without a doubt, have led me to get the best out of myself.</p>
 
-If you're looking for a web designer/developer or programmer who can help bring your next project to life, connect with me! I am excited to explore how I can help you.</h4>
+<p>If you're looking for a web designer/developer or programmer who can help you bring your next project to life, connect with me! I'm excited to explore how I can help you.</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokerc0&label=Profile%20views&color=0e75b6&style=flat" alt="jokerc0" /> </p>
