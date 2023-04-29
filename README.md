@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduard Sepulveda</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<h5> hola</h5>
+
+<h5>Multidisciplinario, FreeLancer, con experiencia en el ecosistema de Diseño y Desarrollo Web con WordPress, HTML, CSS y JavaScript; realizando múltiples proyectos utilizando tecnologías basadas en esa área y ademas creando interfaces de usuario visualmente impactantes e intuitivas.
+
+Me encantaría afrontar nuevos desafíos , algo que he hecho desde el principio de mi carrera laboral, que han sido muy importantes para la empresa y que, sin duda me han llevado a sacar lo mejor de mi mismo.
+
+Si estas buscando un Diseñador/Desarrollador Web que pueda ayudar a dar vida a su próximo proyecto, ¡Conéctese conmigo! Estoy emocionado de explorar como puedo ayudarlo.</h5>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokerc0&label=Profile%20views&color=0e75b6&style=flat" alt="jokerc0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jokerc0" alt="jokerc0" /></a> </p>
