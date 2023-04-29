@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eduard Sepulveda</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A Developer - Programmer passionate about Technology</h3>
 
-<h4>Multidisciplinario, FreeLancer, con experiencia en el ecosistema de Diseño y Desarrollo Web con WordPress, HTML, CSS y JavaScript; realizando múltiples proyectos utilizando tecnologías basadas en esa área y ademas creando interfaces de usuario visualmente impactantes e intuitivas.
+<h4>Multidisciplinario, Estudiante de Ingenieria en Sistemas, FreeLancer, con experiencia en el ecosistema de Diseño y Desarrollo Web con WordPress, HTML, CSS y JavaScript; realizando múltiples proyectos utilizando tecnologías basadas en esa área y ademas creando interfaces de usuario visualmente impactantes e intuitivas.
 
 Me encantaría afrontar nuevos desafíos , algo que he hecho desde el principio de mi carrera laboral, que han sido muy importantes para la empresa y que, sin duda me han llevado a sacar lo mejor de mi mismo.
 
