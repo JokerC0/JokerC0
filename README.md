@@ -15,7 +15,6 @@ and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jokerc0&label=Profile%20views&color=0e75b6&style=flat" alt="jokerc0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jokerc0" alt="jokerc0" /></a> </p>
 
 - 📫 How to reach me **jokerco.service@gmail.com**
 <br><br>
