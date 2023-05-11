@@ -5,6 +5,9 @@
 
 <p>👨‍💻 Multidisciplinary, FreeLancer, passionate about Technology, with knowledge in creating Databases with Excel, Access and VBA, Preventive and Corrective Maintenance of Computer Equipment and with experience in the Web Design and Development ecosystem with WordPress, HTML, CSS and javascript; carrying out multiple projects using technologies based on that area, creating visually impressive and intuitive user interfaces and creating innovative and efficient solutions for problems that arise in the digital field.</p>
 
+<p>I have knowledge and skills in the development of Web Projects with WordPress, WooCommerce
+and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
+
 <p>I would love to face new challenges, something I have done since the beginning of my career, which have been very important for the company and which, without a doubt, have led me to get the best out of myself.</p>
 
 <p>If you're looking for a web designer/developer or programmer who can help you bring your next project to life, connect with me! I'm excited to explore how I can help you.</p>
