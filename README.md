@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eduard Sepulveda</h1>
+<h1 align="center">Hi 👋, I'm Eduard Sepulveda<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1></h1>
 <h3 align="center">A Developer - Programmer passionate about Technology</h3>
 
 <h2>💫 About Me </h2>
