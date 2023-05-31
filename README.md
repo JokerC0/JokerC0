@@ -21,10 +21,10 @@ and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eduard-sepúlveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard-sepúlveda" height="30" width="40" /></a>
-<a href="https://instagram.com/jokerco.digital" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_sepulvedav" height="30" width="40" /></a>
-<a href="https://www.behance.net/jokerco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jokerco" height="30" width="40" /></a>
-<a href="https://discord.gg/ESepu#4167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ESepu#4167" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduard-sepulveda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduard-sepúlveda" height="30" width="40" /></a>
+<a href="https://instagram.com/jokerco.digital" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_sepulvedav" height="30" width="40" /></a>
+<a href="https://www.behance.net/jokerco" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jokerco" height="30" width="40" /></a>
+<a href="https://discord.gg/ESepu#4167" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ESepu#4167" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
