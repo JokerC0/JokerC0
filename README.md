@@ -52,18 +52,13 @@ and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
     height="40"/> 
   </a> 
   <a href="https://wordpress.com/es/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="python" width="40" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" 
     height="40"/> 
   </a> 
   <a href="https://www.gnu.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="python" width="40" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" 
     height="40"/> 
   </a> 
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" alt="python" width="40" 
-    height="40"/> 
-  </a> 
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jokerc0&show_icons=true&locale=en&layout=compact" alt="jokerc0" /></p>
