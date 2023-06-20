@@ -26,7 +26,7 @@ and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
 <a href="https://www.behance.net/jokerco" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jokerco" height="30" width="40" /></a>
 <a href="https://discord.gg/Jokker#4167" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ESepu#4167" height="30" width="40" /></a>
   
-<a href="https://eduard-sepulveda-portfolio.pages.dev/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/website/website-original.svg" alt="Portfolio" height="30" width="40" /></a>
+<a href="https://eduard-sepulveda-portfolio.pages.dev/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="Portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
