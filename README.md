@@ -61,7 +61,6 @@ and in FrontEnd with HTML5, CSS and JavaScript.🌐</p>
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jokerc0&show_icons=true&locale=en&layout=compact" alt="jokerc0" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jokerc0&show_icons=true&locale=en" alt="jokerc0" /></p>
 
